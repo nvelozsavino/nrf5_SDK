@@ -1,6 +1,3 @@
 external/micro-ecc/micro-ecc
-**/*.a
-**/*.o
-**/*.d
-**/*.lib
+external/micro-ecc/nrf5*/**/*.a
 
