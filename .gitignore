@@ -1,0 +1,6 @@
+external/micro-ecc/micro-ecc
+**/*.a
+**/*.o
+**/*.d
+**/*.lib
+
