@@ -1,3 +1,5 @@
 external/micro-ecc/micro-ecc
 external/micro-ecc/nrf5*/**/*.a
+external/micro-ecc/nrf5*/**/*.d
+external/micro-ecc/nrf5*/**/*.o
 
